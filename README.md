@@ -1,1 +1,1 @@
-# xfit-baza
+База ЖЦ XFIT Point
